@@ -1,8 +1,6 @@
 {
   "name": "Jason's Game",
-  "description": "An old school, addictive text adventure game merged with an NFT reward that is playable in Discord.
-
-Free to play, free NFT !",
+  "description": "An old school, addictive text adventure game merged with an NFT reward that is playable in Discord.\n\n Free to play, free NFT !",
   "image": "https://raw.githubusercontent.com/CarTarL/jasons-game/main/images/jg-nft-base.jpg",
   "properties": {
     "Website": "www.cartarl.com/jasons-game",
