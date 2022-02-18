@@ -3,11 +3,11 @@
   "description": "This NFT has been awarded to a player of Jason's Game who has solved at least one of the puzzles in the game.  This NFT will update as the player solves additional puzzles and will show their current progress in the game.",
   "image": "https://raw.githubusercontent.com/CarTarL/jasons-game/main/images/jg-nft-1-1-1-0-1.jpg",
   "properties": {
-    "Spring Court": "solved!",
-    "Summer Court": "solved!",
-    "Autumn Court": "solved!",
+    "Spring Court": "SOLVED",
+    "Summer Court": "SOLVED",
+    "Autumn Court": "SOLVED",
     "Winter Court": "unsolved",
-    "Final Altar": "solved!",
+    "Final Artifacts": "SOLVED",
     "Website": "www.cartarl.com/jasons-game"
   }
 }

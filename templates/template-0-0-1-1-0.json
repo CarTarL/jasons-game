@@ -5,9 +5,9 @@
   "properties": {
     "Spring Court": "unsolved",
     "Summer Court": "unsolved",
-    "Autumn Court": "solved!",
-    "Winter Court": "solved!",
-    "Final Altar": "unsolved",
+    "Autumn Court": "SOLVED",
+    "Winter Court": "SOLVED",
+    "Final Artifacts": "unsolved",
     "Website": "www.cartarl.com/jasons-game"
   }
 }
